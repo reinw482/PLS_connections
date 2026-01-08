@@ -1,1 +1,1 @@
-Repo contains code of network graph of presidential leadership scholars 
+[PLS Network Graph](https://reinw482.github.io/PLS_connections/)
